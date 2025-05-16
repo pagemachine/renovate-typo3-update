@@ -32,5 +32,11 @@
             "typo3/class-alias-loader": true,
             "typo3/cms-composer-installers": true
         }
+    },
+    "repositories": {
+        "107637115": {
+            "type": "composer",
+            "url": "https://gitlab.com/api/v4/group/107637115/-/packages/composer/packages.json"
+        }
     }
 }
